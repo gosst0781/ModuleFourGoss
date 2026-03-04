@@ -430,6 +430,7 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.3.4f1/Editor/Data/Tools/BuildPipeline/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.3.4f1/Editor/Data/Tools/BuildPipeline/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/Sci Fi Modular Pack/Scripts/CameraController.cs"
+"Assets/Scripts/ModuleFourGoss.cs"
 -langversion:9.0
 /deterministic
 /optimize+
